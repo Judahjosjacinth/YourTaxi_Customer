@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_penalty.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\fragment_penalty.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_attachment.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_attachment.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_booking.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_logout.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_logout.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_login.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_login.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_meter.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_meter.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_fare_total.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\dialog_fare_total.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_meter.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_meter.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_meter.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_meter.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_booking.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_booking.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_maintenance.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\fragment_maintenance.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_issue.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_issue.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_login.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_login.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_login.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_login.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_sheet.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_sheet.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_maintenance.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_maintenance.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_booking.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_booking.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_issue.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_issue.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_status.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_status.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_status.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_status.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable_taxi.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable\\taxi.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_splash.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_issue.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_issue.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_sheet.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_sheet.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_driver_free.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_driver_free.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_attachment.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_attachment.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_booking.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_booking.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_logout.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_logout.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_logout.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_logout.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_attachment.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_attachment.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_driver_trip_sheet.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_driver_trip_sheet.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_leave.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_leave.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_maintainance.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_maintainance.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_meter.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_meter.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bid.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_bid.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_status.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_status.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_item_availabletrip.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\item_availabletrip.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_payment_issue_sheet.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_payment_issue_sheet.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_maintainance.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_maintainance.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_attachment.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_attachment.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_issue.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_issue.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_fare_totalos.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\dialog_fare_totalos.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_selector_button.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\selector_button.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_login.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_login.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_issue.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_issue.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login_area.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_login_area.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_maintenance_view.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\maintenance_view.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_driver_attachment.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\activity_driver_attachment.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_maintainance.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_maintainance.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_booking.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_booking.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_status.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_status.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_icon_maintainance.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_icon_maintainance.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_sheet.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_sheet.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_fuel.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\fragment_fuel.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_meter.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_meter.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_trace_salary.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\fragment_trace_salary.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_meter.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_meter.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_login.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_login.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_maintainance.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_maintainance.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_status.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_status.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_booking.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_booking.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\layout_row_bookings.xml.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\layout\\row_bookings.xml"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_icon_logout.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_icon_logout.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_icon_attachment.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_icon_attachment.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_web_hi_res_512.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\web_hi_res_512.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_logout.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_logout.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_icon_sheet.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-mdpi\\ic_action_icon_sheet.png"
+    },
+    {
+        "merged": "E:\\Projects - Android Studio\\ytspilot\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_icon_sheet.png.flat",
+        "source": "E:\\Projects - Android Studio\\ytspilot\\app\\src\\main\\res\\drawable-hdpi\\ic_action_icon_sheet.png"
+    }
+]

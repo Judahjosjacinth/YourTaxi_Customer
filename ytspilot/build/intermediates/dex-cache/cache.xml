@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_c4b5438d6da1ebc7595fd407a63542e9b4b84c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_88ef5d25354d8629ee18aec5a90da8a237f2aa1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_a41d4eb4996402e68cca4b86626b6708c1819b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.5_8d4199e3755ed9034ba9c3264a9c3d2fd7b418d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_9ccd4ff8e7fadf8d4e4f84d7b08b7d77e8b519c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_29317e28aeefbd2c57fc19652da6bb7d84f8174f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_44c06934668ef39e1ce58420b6b39535ae0aba1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5d5feb85757d6f52d32be2076e5d2a563fc18c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_fad82d94c7743bf0c533eb2c10e9bbb20c2a32aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_186d1dfed95235905919af84de4c4b56239c80b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_3de000bffaaecf342f9b012a146716067b337170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_4c8e6d9b857395d29455f008839ebd25bc2e7676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/okio-1.8.0_6fda24c9627d17ba34c65cdb009177e9f73de1b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_b2365ff406cd5329b61020f2c6dece3d9e9d25e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/gson-2.7_ed6575c79a022210dff85e5b8c03fef9697aab38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_c05dd6cf865670613a9d6c993eba86b10d6f8ed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_d2afb8f8ce90d93c5a45db2747436dd00ca9b46c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_1f60cb90a5cf29ef7c62245eaf130810cfa03d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_15b3b81199a5e8693feb5f813d832a095fa0c55d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_aa6e47915434947efa3e2168ec28177872a7e4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_9647c50fdd1be7669afd9cd4e30fb18cd275068f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_9289f375cef26e386cc226f0f28a16628f4298d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_64cdbeaca59031f1cc31bef9726a3b30d0e9bd43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/library-1.0.19_3d2303ee1f9b6f1016d453783b6c08fad011909a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hadialathas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/hadialathas/Documents/Freelancer/YourTaxiStand Driver App/ytspilot/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_d68c08471e618a60dc7fe56c3b69b73b7c366896.jar" />
+    </item>
+
+</items>

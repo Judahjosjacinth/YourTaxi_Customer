@@ -1,0 +1,107 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.ytspilot.MainActivity$PlaceholderFragment">
+
+        <Button
+            android:id="@+id/free"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_status"
+            android:text="Pilot status" />
+
+        <Button
+            android:id="@+id/btn_maintenance"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_maintainance"
+            android:text="Maintenance" />
+
+        <Button
+            android:visibility="gone"
+            android:id="@+id/d_attachment"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_attachment"
+            android:text="Attachment referral" />
+
+        <Button
+            android:id="@+id/tripsheet"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_sheet"
+            android:text="Trip sheet" />
+
+        <Button
+            android:id="@+id/issue"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_issue"
+            android:text="General Issues" />
+
+        <Button
+            android:id="@+id/driver_login"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_login"
+            android:text="Pilot login area plan" />
+
+        <Button
+            android:id="@+id/driver_leave"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_booking"
+            android:text="Pilot leave plan" />
+
+        <Button
+            android:id="@+id/booking"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_booking"
+            android:text="Bookings" />
+
+        <Button
+            android:id="@+id/meter"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_meter"
+            android:text="Meter"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/logout"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_icon_logout"
+
+            android:text="Logout" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:src="@drawable/taxi" />
+    </LinearLayout>
+</ScrollView>

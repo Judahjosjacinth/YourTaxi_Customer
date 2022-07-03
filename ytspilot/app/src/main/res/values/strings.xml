@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YourTaxiStandPilot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_driver_trip_sheet">DriverTripSheet</string>
+    <string name="title_activity_payment_issue_sheet">General Issues</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_driver_attachment">Attachment referral</string>
+    <string name="title_activity_login_area">Pilot login area plan</string>
+    <string name="title_activity_driver_free">Pilot status</string>
+    <string name="title_activity_leave">Pilot leave plan</string>
+    <string name="title_activity_booking">Bookings</string>
+    <string name="title_activity_meter">Meter</string>
+
+
+    <!-- API STRINGS -->
+    <string name="api_host"></string>
+    <string name="maintenance">Maintenance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nointernet">Internet connection not available please connect and try again</string>
+    <string name="title_activity_bid">BidActivity</string>
+
+    <string name="bidding">Bidding</string>
+    <string name="ok">OK</string>
+
+</resources>

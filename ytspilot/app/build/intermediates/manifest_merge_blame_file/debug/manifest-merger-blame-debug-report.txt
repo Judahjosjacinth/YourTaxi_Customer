@@ -1,0 +1,209 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ytspilot"
+4    android:versionCode="2"
+5    android:versionName="1.4.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:8:5-69
+11-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:8:22-66
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:9:5-79
+12-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:10:5-67
+13-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:10:22-64
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:11:5-81
+14-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:11:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:12:5-79
+15-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:12:22-76
+16
+17    <uses-feature android:name="android.hardware.location.gps" />
+17-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:14:5-66
+17-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:14:19-63
+18
+19    <uses-permission android:name="android.permission.READ_CONTACTS" />
+19-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:15:5-72
+19-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:15:22-69
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:17:5-81
+20-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:17:22-78
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:18:5-75
+21-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:18:22-72
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:19:5-80
+22-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:19:22-77
+23
+24    <application
+24-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:21:5-103:19
+25        android:name="com.ytspilot.Myapplication"
+25-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:23:9-38
+26        android:allowBackup="true"
+26-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:24:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.5.0] C:\Users\Admin\.gradle\caches\transforms-3\97e7ec19bd11dff7ae3d399ac9d0fa5b\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:icon="@drawable/ic_launcher"
+29-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:25:9-45
+30        android:label="@string/app_name"
+30-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:26:9-41
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:27:9-40
+33        <uses-library
+33-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:28:9-88
+34            android:name="org.apache.http.legacy"
+34-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:28:23-60
+35            android:required="false" />
+35-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:28:61-85
+36
+37        <activity
+37-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:29:9-38:20
+38            android:name="com.ytspilot.Splash"
+38-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:30:13-35
+39            android:label="@string/app_name"
+39-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:31:13-45
+40            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+40-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:32:13-77
+41            <intent-filter>
+41-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:33:13-37:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:34:17-69
+42-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:34:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:36:17-77
+44-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:36:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:39:9-47:20
+48            android:name="com.ytspilot.LoginActivity"
+48-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:40:13-42
+49            android:label="YourTaxiStand Driver Login" >
+49-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:41:13-55
+50            <intent-filter>
+50-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:42:13-46:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:34:17-69
+51-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:34:25-66
+52
+53                <category android:name="android.intent.category.DEFAULT" />
+53-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:45:17-76
+53-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:45:27-73
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:48:9-50:42
+57            android:name="com.ytspilot.DriverTripSheet"
+57-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:49:13-44
+58            android:label="Trip sheet" />
+58-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:50:13-39
+59        <activity
+59-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:51:9-53:74
+60            android:name="com.ytspilot.PaymentIssueSheet"
+60-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:52:13-46
+61            android:label="@string/title_activity_payment_issue_sheet" />
+61-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:53:13-71
+62        <activity
+62-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:54:9-56:43
+63            android:name="com.ytspilot.MainActivity"
+63-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:55:13-41
+64            android:label="Driver Menu" />
+64-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:56:13-40
+65        <activity
+65-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:57:9-59:72
+66            android:name="com.ytspilot.DriverAttachment"
+66-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:58:13-45
+67            android:label="@string/title_activity_driver_attachment" />
+67-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:59:13-69
+68        <activity
+68-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:60:9-62:65
+69            android:name="com.ytspilot.LoginArea"
+69-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:61:13-38
+70            android:label="@string/title_activity_login_area" />
+70-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:62:13-62
+71        <activity
+71-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:63:9-65:66
+72            android:name="com.ytspilot.DriverFree"
+72-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:64:13-39
+73            android:label="@string/title_activity_driver_free" />
+73-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:65:13-63
+74        <activity
+74-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:66:9-68:60
+75            android:name="com.ytspilot.Leave"
+75-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:67:13-34
+76            android:label="@string/title_activity_leave" />
+76-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:68:13-57
+77        <activity
+77-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:69:9-71:62
+78            android:name="com.ytspilot.BookingsListActivity"
+78-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:70:13-49
+79            android:label="@string/title_activity_booking" />
+79-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:71:13-59
+80        <activity
+80-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:72:9-74:60
+81            android:name="com.ytspilot.Meter"
+81-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:73:13-34
+82            android:label="@string/title_activity_meter" />
+82-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:74:13-57
+83        <activity
+83-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:75:9-77:51
+84            android:name="com.ytspilot.MaintenanceActivity"
+84-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:76:13-48
+85            android:label="@string/maintenance" />
+85-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:77:13-48
+86
+87        <service
+87-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:79:9-81:45
+88            android:name="com.ytspilot.service.MyService"
+88-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:80:13-46
+89            android:process=":my_service" />
+89-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:81:13-42
+90
+91        <!-- <service android:name=".service.MyService_"> -->
+92        <!-- <intent-filter> -->
+93        <!-- <action android:name="com.ytspilot.service.MyService" /> -->
+94        <!-- </intent-filter> -->
+95        <!-- </service> -->
+96
+97        <meta-data
+97-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:89:9-91:48
+98            android:name="DATABASE"
+98-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:90:13-36
+99            android:value="yourtaxistand.db" />
+99-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:91:13-45
+100        <meta-data
+100-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:92:9-94:33
+101            android:name="VERSION"
+101-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:93:13-35
+102            android:value="1" />
+102-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:94:13-30
+103        <meta-data
+103-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:95:9-97:36
+104            android:name="QUERY_LOG"
+104-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:96:13-37
+105            android:value="true" />
+105-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:97:13-33
+106        <meta-data
+106-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:98:9-100:44
+107            android:name="DOMAIN_PACKAGE_NAME"
+107-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:99:13-47
+108            android:value="com.ytspilot" />
+108-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:100:13-41
+109
+110        <activity android:name="com.ytspilot.BidActivity" />
+110-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:102:9-58
+110-->E:\Projects - Android Studio\ytspilot\app\src\main\AndroidManifest.xml:102:19-46
+111    </application>
+112
+113</manifest>

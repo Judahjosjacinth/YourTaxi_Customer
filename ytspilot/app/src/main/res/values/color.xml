@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+<!--    <color name="appdark">#1976D2</color>-->
+<!--    <color name="applight">#2196F3</color>-->
+<!--    <color name="appfulllight">#BBDEFB</color>-->
+    <color name="appdark">#E5B009</color>
+    <color name="applight">#FFC50C</color>
+    <color name="appfulllight">#f5df9d</color>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+
+</resources>

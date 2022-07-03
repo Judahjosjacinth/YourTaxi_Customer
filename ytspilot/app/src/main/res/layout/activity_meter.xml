@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/appdark"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_bookingid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Booking id  "
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:id="@+id/bid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter booking id  "
+            android:inputType="text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_startkm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Starting kilometer"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:id="@+id/skm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter starting kilometer"
+            android:inputType="number"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tekm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:text="Ending kilometer  "
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:id="@+id/ekm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter ending kilometer"
+            android:inputType="numberDecimal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/call"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:text="call"
+            android:textColor="@color/appdark" />
+
+        <Button
+            android:id="@+id/metter_on_off"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/white"
+            android:layout_margin="3dp"
+            android:text="Turn on meter"
+            android:textColor="@color/appdark"
+            android:textSize="24sp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

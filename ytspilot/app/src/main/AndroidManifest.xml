@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ytspilot"
+    android:versionCode="2"
+    android:versionName="1.4.1">
+
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+
+        android:name=".Myapplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <uses-library android:name="org.apache.http.legacy" android:required="false" />
+        <activity
+            android:name=".Splash"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="YourTaxiStand Driver Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DriverTripSheet"
+            android:label="Trip sheet" />
+        <activity
+            android:name=".PaymentIssueSheet"
+            android:label="@string/title_activity_payment_issue_sheet" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Driver Menu" />
+        <activity
+            android:name=".DriverAttachment"
+            android:label="@string/title_activity_driver_attachment" />
+        <activity
+            android:name=".LoginArea"
+            android:label="@string/title_activity_login_area" />
+        <activity
+            android:name=".DriverFree"
+            android:label="@string/title_activity_driver_free" />
+        <activity
+            android:name=".Leave"
+            android:label="@string/title_activity_leave" />
+        <activity
+            android:name=".BookingsListActivity"
+            android:label="@string/title_activity_booking" />
+        <activity
+            android:name=".Meter"
+            android:label="@string/title_activity_meter" />
+        <activity
+            android:name=".MaintenanceActivity"
+            android:label="@string/maintenance" />
+
+        <service
+            android:name=".service.MyService"
+            android:process=":my_service" />
+
+        <!-- <service android:name=".service.MyService_"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="com.ytspilot.service.MyService" /> -->
+        <!-- </intent-filter> -->
+        <!-- </service> -->
+
+        <meta-data
+            android:name="DATABASE"
+            android:value="yourtaxistand.db" />
+        <meta-data
+            android:name="VERSION"
+            android:value="1" />
+        <meta-data
+            android:name="QUERY_LOG"
+            android:value="true" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="com.ytspilot" />
+
+        <activity android:name=".BidActivity"></activity>
+    </application>
+
+</manifest>
